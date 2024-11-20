@@ -4,11 +4,11 @@
 body {
     background-color: aliceblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: azure;
+    color: rgb(10, 13, 13);
 
 }
 h1, h2, h3{
-    color: bisque;
+    color: rgb(184, 118, 37);
 }
 .clear{
     clear: both;
