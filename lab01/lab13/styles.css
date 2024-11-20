@@ -66,10 +66,10 @@ footer .copy{
     flex-wrap: wrap;
 }
 .evenrow {
-    background-color: aquamarine;
+    background-color: rgb(20, 38, 198);
 }
 table, th, td{ 
-    border: 1px solid black
+    border: 1px solid rgb(248, 157, 1)
 }
 center{
     text-align: center;
@@ -79,7 +79,7 @@ center{
     justify-content: center;
     align-items: center;
     width: 100%;
-    background-color: aliceblue;
+    background-color: rgb(7, 127, 233);
 }
 
 .skillsimage{
@@ -101,7 +101,7 @@ center{
     display: flex;
     margin: 1em;
     padding: 20px;
-    background-color: aliceblue;
+    background-color: rgb(7, 136, 248);
     border-radius: 1em;
 
 }
@@ -114,7 +114,7 @@ center{
     display: flex;
     margin: 1em;
     padding: 10px;
-    background-color: aliceblue;
+    background-color: rgb(3, 135, 250);
     border-radius: 1em;
 }
 
