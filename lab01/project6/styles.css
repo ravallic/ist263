@@ -1,4 +1,4 @@
-/* Reset some default browser styles */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -28,7 +28,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* Layout for sections */
+
 section {
     margin: 20px auto;
     max-width: 800px;
@@ -45,7 +45,7 @@ h2 {
     color: #333;
 }
 
-/* Cascading layout for content */
+
 .content {
     display: flex;
     align-items: center;
@@ -73,12 +73,11 @@ h2 {
     color: #555;
 }
 
-/* Alternating layout */
+
 section.reversed .content {
     flex-direction: row-reverse;
 }
 
-/* Responsive layout */
 @media (max-width: 768px) {
     .content {
         flex-direction: column;
