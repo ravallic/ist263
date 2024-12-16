@@ -19,7 +19,7 @@ h2 {
 
 nav {
     text-align: center;
-    background-color: #1aae9079; 
+    background-color: #1aae9044; 
     padding: 10px 0;
 }
 
@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #1abc9c; 
+    background-color: #1abc9c3d; 
     border-radius: 5px;
 }
 
